@@ -1,0 +1,18 @@
+# ONLY WORK FOR XFCE AND GNOME
+
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Graphene
+Comment=Retro Dark.
+Encoding=UTF-8
+
+
+[X-GNOME-Metatheme]
+Name=Graphene
+Encoding=UTF-8
+GtkTheme=Graphene
+MetacityTheme=Graphene
+IconTheme=Orchid
+CursorTheme=Adwaita
+CursorSize=24
+ButtonLayout=:minimize,maximize,close
