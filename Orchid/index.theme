@@ -3,7 +3,7 @@
 [Icon Theme]
 Name=Orchid
 Comment=Modern 3d flat color.
-Inherits=breeze-dark,elementary,Adwaita,gnome,hicolor
+Inherits=Adwaita,gnome,hicolor
 Example=folder
 FollowsColorScheme=true
 
